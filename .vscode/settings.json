@@ -1,0 +1,10 @@
+{
+  // Live Server settings - adjust "liveServer.settings.root" if your workspace root
+  // is different. This settings file is inside `Chef` so root is set to "/" which
+  // points to the current folder (d:\Projects\Chef\Chef). If you open the parent
+  // folder instead, change this to "/Chef".
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.root": "/",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.NoBrowser": false
+}
